@@ -22,7 +22,7 @@ Para rodar o jogo na sua máquina local, certifique-se de ter o Java JDK instala
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+   git clone [https://github.com/nilton-araripe-dev/tic-tac-toe-java.git](https://github.com/nilton-araripe-dev/tic-tac-toe-java.git)
 Navegar até a pasta do projeto:
 
 Bash
